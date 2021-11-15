@@ -333,6 +333,10 @@ min-height: 100vh;
  
 
 }
+.history_title  span{
+  background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 24%, rgba(123,238,198,1) 51%, rgba(123,238,199,0.9612219887955182) 100%);
+}
 .history_main_text {
   font-size: 16px;
   font-family: "OpenSans";
@@ -385,6 +389,10 @@ min-height: 100vh;
     font-weight: bold;
     text-transform: uppercase;
     line-height: 1.6;
+}
+.why_chose_title span{
+  background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 24%, rgba(123,238,198,1) 51%, rgba(123,238,199,0.9612219887955182) 100%);
 }
 .why_chose_text {
     font-size: 14px;
@@ -450,6 +458,10 @@ min-height: 100vh;
     text-transform: uppercase;
     line-height: 1.6;
 }
+.portfolio_title span{
+  background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 24%, rgba(123,238,198,1) 51%, rgba(123,238,199,0.9612219887955182) 100%);
+}
 .portfolio_text {
     font-size: 14px;
     font-family: "OpenSans";
@@ -489,6 +501,13 @@ min-height: 100vh;
   text-transform: uppercase;
   line-height: 3.429;
 
+}
+.chose ul li a span{
+  background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(121,231,193,1) 4%, rgba(123,238,199,0.9612219887955182) 100%);
+padding: 3px 20px;
+color: #fff;
+margin-left: -15px;
 }
 .chose_all {
 }
